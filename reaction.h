@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <pthread.h>
 
+
 struct reaction {
 	int hyd_atom;
 	int oxy_atom;
